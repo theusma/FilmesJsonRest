@@ -1,4 +1,4 @@
-package filmesdb.usjt.br.filmesdb;
+package filmeJson.usjt.br.filmeJson;
 
 import org.junit.Test;
 

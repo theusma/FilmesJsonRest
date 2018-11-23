@@ -1,4 +1,4 @@
-package filmesdb.usjt.br.filmesdb;
+package filmeJson.usjt.br.filmeJson;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("filmesdb.usjt.br.filmesdb", appContext.getPackageName());
+        assertEquals("filmeJson.usjt.br.filmeJson", appContext.getPackageName());
     }
 }
