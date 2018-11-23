@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FIlmes DB</string>
+
+    <string name="txt_genero">Gênero</string>
+    <string name="btn_busca">Buscar</string>
+    
+    <string name="lbl_diretor">Direção:</string>
+    <string name="lbl_data_lancamento">Data de Lançamento:</string>
+    <string name="lbl_popularidade">Popularidade</string>
+    <string name="title_activity_lista_filmes">ListaFilmesActivity</string>
+</resources>
